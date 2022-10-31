@@ -1,0 +1,42 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    color: #000;
+    background: #e9ebee;
+    min-width: 320px;
+}
+
+img {
+    max-width: 100%;
+    max-height: max-content;
+}
+
+section {
+    padding: 50px 0;
+}
+
+a {
+    color: #222;
+}
+
+a:hover {
+    color: #696969;
+}
+
+/*header*/
+
+.navbar-expand-md .navbar-nav .nav-link {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.navbar-nav .dropdown-menu {
+    right: 0;
+    left: auto;
+}
+
+/*header*/

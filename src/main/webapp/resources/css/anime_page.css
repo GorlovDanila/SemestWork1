@@ -1,0 +1,28 @@
+/*body*/
+
+.my-cont {
+    margin-top: 50px;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.my-img {
+    margin-left: 25px;
+}
+
+.my-text {
+    margin-right: 100px;
+    padding-right: 100px;
+    text-align: left;
+}
+
+.my-center {
+    margin-top: 25px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+/*body*/
